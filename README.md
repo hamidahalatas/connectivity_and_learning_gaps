@@ -13,6 +13,12 @@ Average PISA Score for Singapore by Subject and ICT Devices Ownership Students w
 
 After adjusting for economic index and learning times for each student, we still observe the gap between students with internet access and those who do not. The gaps persist but vary across countries and PISA subjects.
 
+![](images/internet_gap_math.png)
+
+![](images/internet_gap_science.png)
+
+![](images/internet_gap_reading.png)
+
 Some research has shown how the learning inequality between students’ race and socioeconomic status has been compounded by the school shutdowns. The charts above emphasize that the other dimension that might exacerbate this wide gap is the ownership and access to digital devices. Therefore, this should be embedded in the recovery plan of governments and educators in all countries.
 
 While strengthening the school’s digital capabilities is one way to provide remedial education efforts, efforts in ensuring all students have access to digital devices and the internet should be continuously implemented even after all students come back to school.
